@@ -3,11 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "npx tsc && vite build",
-    "preview": "vite preview"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "npx tsc && vite build",
+  "preview": "vite preview"
+}
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
     "lucide-react": "^0.441.0",
